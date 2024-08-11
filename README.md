@@ -1,8 +1,8 @@
-- Hi, I’m @erinle2003
+- Hi, I’m @rindotsh
 - I’m interested in warhammer, linux stuff
 - I’m currently learning archlinux, java, C++, cybsec
 - I’m looking to collaborate on cybersec stuff
-- How to reach me: discord @ rindrome
+- How to reach me: message me at rindotsh@proton.me
 - Pronouns: she/they
 - Fun fact: the quickest path to a man's heart is with a well-sharpened bayonet.
 
