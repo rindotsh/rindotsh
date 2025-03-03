@@ -1,10 +1,5 @@
-- Hi, I’m @rindotsh
-- I’m interested in linux, SCP, Warhammer and Terrariums/Vivariums.
-- I’m currently learning java, C++, cybsec.
-- I’m looking to collaborate on cybersec stuff.
-- How to reach me: message me at rindotsh@proton.me
-- Pronouns: any/all
-- Currently running Arch Linux 
+- My name is rindotsh
+- I like linux (arch btw)
 
 <!---
 rindotsh/rindotsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
